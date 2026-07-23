@@ -316,20 +316,6 @@ This project demonstrates the ability to:
 
 ---
 
-# 🚀 Future Improvements
-
-Potential enhancements include:
-
-- Add **Primary Keys** and **Foreign Keys**
-- Implement **NOT NULL**, **UNIQUE**, and **CHECK** constraints
-- Create **Views**
-- Develop **Stored Procedures**
-- Implement **Triggers**
-- Add **Indexes** for performance optimization
-- Include more realistic sample data
-- Create reports using advanced analytical queries
-
----
 
 # 👩‍💻 Author
 
